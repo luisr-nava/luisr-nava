@@ -1,5 +1,6 @@
 
-![Banner](https://github.com/luisnava6667/luisnava6667/blob/main/Banner.png)
+<img width="1584" height="396" alt="Luis Rodolfo Navarro (1584 x 396 px)" src="https://github.com/user-attachments/assets/138d2626-ad0e-470c-8c00-6841f2a179cc" />
+
 ### <h1 align="center">💻 Hola 👋, Soy Luis Rodolfo Navarro</h1>
 
 - 💬 Me puedes preguntar sobre --> **JavaScript, React & Redux, NodeJS, Express, HTML, CSS, PostgreSQL, Sequelize**
